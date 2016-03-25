@@ -1,0 +1,36 @@
+{
+  "name": "fis-postpackager-trueload",
+  "version": "0.0.8",
+  "description": "用于协助trueLoad（HTML5专题loading效果）组件，把外链css、外链js抽出来，显示完loading logo再发出外链请求，请求完成后再塞html回到页面",
+  "main": "index.js",
+  "keywords": [
+    "fis",
+    "trueload"
+  ],
+  "author": {
+    "name": "gzlijun"
+  },
+  "license": "NET-EASE",
+  "dependencies": {},
+  "scripts": {},
+  "maintainers": [
+    {
+      "name": "w3cmark",
+      "email": "lijungm305@gmail.com"
+    }
+  ],
+  "_id": "fis-postpackager-trueload@0.0.8",
+  "_shasum": "12dc5e7dfffe95337ce83d247a69889bd1a1489f",
+  "_from": "fis-postpackager-trueload@*",
+  "_npmVersion": "1.4.28",
+  "_npmUser": {
+    "name": "w3cmark",
+    "email": "lijungm305@gmail.com"
+  },
+  "dist": {
+    "shasum": "12dc5e7dfffe95337ce83d247a69889bd1a1489f",
+    "tarball": "http://registry.npmjs.org/fis-postpackager-trueload/-/fis-postpackager-trueload-0.0.8.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/fis-postpackager-trueload/-/fis-postpackager-trueload-0.0.8.tgz"
+}
