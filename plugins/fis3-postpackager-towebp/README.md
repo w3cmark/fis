@@ -1,12 +1,12 @@
-## fis-postpackager-towebp
+## fis3-postpackager-towebp
 > 主要作用：把项目中jpg图片在打包时生成webp格式，并判断当前浏览器是否支持来决定加载哪种格式
 
-+ 插件名 `fis-postpackager-towebp`
++ 插件名 `fis3-postpackager-towebp`
 
 ### 安装
 
 ```
-npm install -g fis-postpackager-towebp
+npm install -g fis3-postpackager-towebp
 ```
 
 ### 配置
