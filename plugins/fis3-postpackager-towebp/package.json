@@ -1,0 +1,51 @@
+{
+  "name": "fis-postpackager-webpsrc",
+  "description": "A parser plugin for fis to convert images to webp.",
+  "version": "0.0.1",
+  "author": {
+    "name": "wurongle",
+    "email": "wurongle@gmail.com"
+  },
+  "homepage": "",
+  "keywords": [
+    "fis",
+    "webp"
+  ],
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wurongle/fis-postpackager-webp.git"
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "mocha test/ut --recursive"
+  },
+  "dependencies": {
+    "webp-bin": "0.1.4"
+  },
+  "bugs": {
+    "url": "https://github.com/wurongle/fis-postpackager-webp/issues"
+  },
+  "_id": "fis-postpackager-webpsrc@0.0.1",
+  "dist": {
+    "shasum": "8d4571f28e90f0f0b0df1391eb0b3245ebcc8dcd",
+    "tarball": "http://registry.npmjs.org/fis-postpackager-webpsrc/-/fis-postpackager-webpsrc-0.0.1.tgz"
+  },
+  "_from": "fis-postpackager-webpsrc@",
+  "_npmVersion": "1.3.11",
+  "_npmUser": {
+    "name": "wurongle",
+    "email": "wurongle@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "wurongle",
+      "email": "wurongle@gmail.com"
+    }
+  ],
+  "directories": {},
+  "_shasum": "8d4571f28e90f0f0b0df1391eb0b3245ebcc8dcd",
+  "_resolved": "https://registry.npmjs.org/fis-postpackager-webpsrc/-/fis-postpackager-webpsrc-0.0.1.tgz"
+}
